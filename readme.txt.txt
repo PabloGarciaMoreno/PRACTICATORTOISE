@@ -1,3 +1,4 @@
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
 o Nueva funcionalidad añadida: customización de los colores del juego.
+o Nueva funcionalidad para rotar piezas con el ratón.
