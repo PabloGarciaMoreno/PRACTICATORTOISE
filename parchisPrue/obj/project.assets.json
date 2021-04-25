@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRACTICATORTOISE\\parchisPrue\\parchisPrue\\parchisPrue.csproj",
+      "projectUniqueName": "C:\\PRACTICATORTOISE\\parchisPrue\\parchisPrue.csproj",
       "projectName": "parchisPrue",
-      "projectPath": "C:\\PRACTICATORTOISE\\parchisPrue\\parchisPrue\\parchisPrue.csproj",
+      "projectPath": "C:\\PRACTICATORTOISE\\parchisPrue\\parchisPrue.csproj",
       "packagesPath": "C:\\Users\\pgmla\\.nuget\\packages\\",
-      "outputPath": "C:\\PRACTICATORTOISE\\parchisPrue\\parchisPrue\\obj\\",
+      "outputPath": "C:\\PRACTICATORTOISE\\parchisPrue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pgmla\\AppData\\Roaming\\NuGet\\NuGet.Config",
